@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Cursos/XP/Analista%20ML/M4%20-%20ML/projeto_MLFLOW/mlflow-ml/mlruns/144052874892962626/44d582dae5ad4b889db69f29fb0391fa/artifacts
+end_time: 1742756544399
+entry_point_name: ''
+experiment_id: '144052874892962626'
+lifecycle_stage: active
+run_id: 44d582dae5ad4b889db69f29fb0391fa
+run_name: nimble-mule-870
+run_uuid: 44d582dae5ad4b889db69f29fb0391fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742756536711
+status: 3
+tags: []
+user_id: MASTER

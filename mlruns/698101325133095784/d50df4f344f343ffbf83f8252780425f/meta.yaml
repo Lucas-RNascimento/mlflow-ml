@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Cursos/XP/Analista%20ML/M4%20-%20ML/projeto_MLFLOW/mlflow-ml/mlruns/698101325133095784/d50df4f344f343ffbf83f8252780425f/artifacts
+end_time: 1742759634533
+entry_point_name: ''
+experiment_id: '698101325133095784'
+lifecycle_stage: active
+run_id: d50df4f344f343ffbf83f8252780425f
+run_name: incongruous-roo-925
+run_uuid: d50df4f344f343ffbf83f8252780425f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742759628952
+status: 3
+tags: []
+user_id: MASTER

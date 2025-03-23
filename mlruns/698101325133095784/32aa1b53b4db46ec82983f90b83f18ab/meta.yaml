@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Cursos/XP/Analista%20ML/M4%20-%20ML/projeto_MLFLOW/mlflow-ml/mlruns/698101325133095784/32aa1b53b4db46ec82983f90b83f18ab/artifacts
+end_time: 1742759648711
+entry_point_name: ''
+experiment_id: '698101325133095784'
+lifecycle_stage: active
+run_id: 32aa1b53b4db46ec82983f90b83f18ab
+run_name: sedate-bug-691
+run_uuid: 32aa1b53b4db46ec82983f90b83f18ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742759643608
+status: 3
+tags: []
+user_id: MASTER

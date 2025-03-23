@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Cursos/XP/Analista%20ML/M4%20-%20ML/projeto_MLFLOW/mlflow-ml/mlruns/144052874892962626/2a56758dc55f46138838298aedbea088/artifacts
+deleted_time: 1742758460741
+end_time: 1742756526764
+entry_point_name: ''
+experiment_id: '144052874892962626'
+lifecycle_stage: deleted
+run_id: 2a56758dc55f46138838298aedbea088
+run_name: loud-fawn-218
+run_uuid: 2a56758dc55f46138838298aedbea088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742756526556
+status: 4
+tags: []
+user_id: MASTER

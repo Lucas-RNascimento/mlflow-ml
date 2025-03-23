@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Cursos/XP/Analista%20ML/M4%20-%20ML/projeto_MLFLOW/mlflow-ml/mlruns/698101325133095784/035c76a832ff42a29cdb3e5e5656eb9f/artifacts
+end_time: 1742759643599
+entry_point_name: ''
+experiment_id: '698101325133095784'
+lifecycle_stage: active
+run_id: 035c76a832ff42a29cdb3e5e5656eb9f
+run_name: spiffy-snipe-296
+run_uuid: 035c76a832ff42a29cdb3e5e5656eb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742759638730
+status: 3
+tags: []
+user_id: MASTER
